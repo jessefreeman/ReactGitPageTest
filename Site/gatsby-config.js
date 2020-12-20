@@ -24,4 +24,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/ReactGitPageTest"
 }
